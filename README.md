@@ -1,5 +1,5 @@
 # Webflow-landing-page
-A landing page designed in Figma using web design principles, typography knowledge and palette of colours and coded in Webflow
+A landing page designed in Figma using web design principles, typography knowledge and palette of colours and coded in Webflow, enhancing user experience and web accessibility.
 
 
 ## ABOUT THE PROJECT | ACERCA DEL PROYECTO 💻
