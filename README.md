@@ -14,7 +14,7 @@ En este proyecto he creado una landing page para una escuela de manejo, he dise�
 
 ➡️ I wrote accurate text for the **alt** atributes for each image to improve web accessibility and SEO | He escrito texto adecuado para los atributos **alt** de cada imagen y así mejorar la accesibilidad web y el SEO.
 
-➡️ I uploaded the right sizes of favicon and webclip for the project, also tested the responsive design of the page to assure its right functionality | Subí las imágenes con los tamaños correctos tanto para el favicon como para el webclip de la landing page, además hice las pruebas para asegurar que el diseño responsivo funciona de la manera correcta.
+➡️ I uploaded the right sizes of favicon and webclip for the project, also tested the responsive design of the page to assure its right functionality | Subí las imágenes con los tamaños correctos tanto para el favicon como para el webclip de la landing page, además hice las pruebas para asegurar que el diseño responsivo funciona de la manera correcta en las diferentes pantallas.
 
 LINKS OF THE PROJECT | ENLACES DEL PROYECTO
 
