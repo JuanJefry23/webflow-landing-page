@@ -5,6 +5,7 @@ From Figma design to Webflow development.
 
 
 ## ABOUT THE PROJECT | ACERCA DEL PROYECTO 💻
+
 In this project I created a landing page for a driving school, I designed the solution on a paper as a wireframe, after that I took that design into Figma, using grid to align the content and give a perfect responsive size, also investigated about colours, which are a perfect palette for landing page of a driving school and the accurate typography for the project.
 Once I finished the braing storming and the web design, then I started to create the solution in Webflow 
 
