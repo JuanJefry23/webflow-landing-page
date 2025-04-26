@@ -13,6 +13,7 @@ En este proyecto he creado una landing page para una escuela de manejo, he dise�
 
 
 ## KEY POINTS TO HIGHLIGHT IN THIS PROJECT | PUNTOS CLAVES A DESTACAR EN ESTE PROYECTO
+
 ➡️ I used **rem** values for font size to ensure web accessibility, good practices and user experience | He utilizado valores **rem** para los tamaños de los textos y así asegurar la accesibilidad web, buenas practicas y una buena experiencia de usuario.
 
 ➡️ I wrote accurate text for the **alt** atributes for each image to improve web accessibility and SEO | He escrito texto adecuado para los atributos **alt** de cada imagen y así mejorar la accesibilidad web y el SEO.
